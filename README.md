@@ -1,0 +1,1 @@
+# samr-report-autouploader
